@@ -12,15 +12,8 @@ Create an `index.html` file with the [basic HTML structure](http://4geeks.com/le
 $ pip3 install flask && python3 server.py
 ```
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
-
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
+- I use HTML files, just a simple Html file
+- I use Bootstrap for responsiveness and styling
 ```
 
 ### Contributors
